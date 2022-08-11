@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+
+.icon {
+    @apply h-10 w-10 text-white;
+}
+
+.gray-text {
+    @apply text-gray-400;
+}
+
+@tailwind utilities;
